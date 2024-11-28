@@ -1,5 +1,5 @@
 # SISTEM KEUANGAN BIDANG USAHA
-Sistem Keuangan Bidang Usaha adalah aplikasi berbasis web yang dirancang untuk mempermudah pencatatan transaksi keuangan dalam suatu usaha. Sistem ini memungkinkan pengguna untuk mencatat pemasukan dan pengeluaran dengan mudah, serta menyediakan fitur unggah struk/nota untuk meningkatkan transparansi dan akuntabilitas transaksi.
+Sistem Keuangan Bidang Usaha adalah aplikasi berbasis web yang dirancang untuk mempermudah pencatatan transaksi keuangan dalam suatu usaha atau organisasi. Sistem ini memungkinkan pengguna untuk mencatat pemasukan dan pengeluaran dengan mudah, serta menyediakan fitur unggah struk/nota untuk meningkatkan transparansi dan akuntabilitas transaksi.
 
 ## Fitur-fitur utama:
 - Pencatatan transaksi keuangan (pemasukan dan pengeluaran)
